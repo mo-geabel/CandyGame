@@ -27,3 +27,6 @@ This game is a fun and challenging puzzle game where players interact with a gri
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/CandyGame.git
+
+Or
+2. Download the Lunch The Game file to play the game 
